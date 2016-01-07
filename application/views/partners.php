@@ -8,7 +8,7 @@
         <div class="widget-header bg-blue">
             <span class="widget-caption">Admin Users</span>
         </div>
-        <div class="widget-body">
+        <div class="widget-body col-md-12">
             <div class=" ">
                 
     
